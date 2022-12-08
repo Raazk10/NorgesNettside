@@ -1,4 +1,3 @@
 ### Temaoppgave 2
 
-Inspirasjonsside som viser norges nettsider.
-Nettside er implementert i HTML/CSS.
+This is the website which contains most of the technology industry of the norway.
